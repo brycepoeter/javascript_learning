@@ -1,0 +1,10 @@
+#taskList { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#inputBoxAndButton {
+    display: flex;
+    justify-content: center;
+}
