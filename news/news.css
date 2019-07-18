@@ -1,0 +1,9 @@
+.articleImage {
+    max-height: 200px;
+}
+#newsStoriesDiv {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
